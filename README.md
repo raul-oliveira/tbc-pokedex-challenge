@@ -5,8 +5,9 @@
 - Git timeline
 - O que é um commit
 - O que é um pull request
-- Revisando...
-- Conclusao
+- Revisão
+- Conclusão
+- Agradecimento
 
 ## Layout
 
