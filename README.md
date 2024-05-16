@@ -1,5 +1,8 @@
 # TBC Pokedex - Challenge
 
+## prefacio
+Alguma string de exemplo
+
 ## Aulas sobre git com a Super Esposa topi
 - O que é o git
 - Git timeline
