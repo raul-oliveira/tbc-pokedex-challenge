@@ -1,5 +1,13 @@
 # TBC Pokedex - Challenge
 
+## Aulas sobre git com a Super Esposa topi
+- O que é o git
+- Git timeline
+- O que é um commit
+- O que é um pull request
+- Revisando...
+- Conclusao
+
 ## Layout
 
 - Acesse https://www.figma.com/file/jecQlczA93OOOOiKHmolRi/Tbc-pokemon?type=design&node-id=0%3A1&mode=design&t=oaMwzepmnRxNM93J-1
