@@ -1,5 +1,8 @@
 # TBC Pokedex - Challenge
 
+## prefacio
+Alguma string de exemplo
+
 ## Layout
 
 - Acesse https://www.figma.com/file/jecQlczA93OOOOiKHmolRi/Tbc-pokemon?type=design&node-id=0%3A1&mode=design&t=oaMwzepmnRxNM93J-1
